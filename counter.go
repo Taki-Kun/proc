@@ -1,7 +1,7 @@
 package proc
 
 import (
-	ntime "github.com/toolkits/time"
+	ntime "github.com/Taki-Kun/time"
 	"sync"
 	"time"
 )
